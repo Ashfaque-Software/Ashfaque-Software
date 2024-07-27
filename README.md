@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Ashfaque-Software
+### 👋 Hi, I’m Mohammad Ashfaque Ansari
 
 I'm a motivated full stack web developer with extensive experience in the MERN stack. I specialize in building scalable web applications with a strong focus on clean and efficient code, as well as an eye for design and user experience.
 
