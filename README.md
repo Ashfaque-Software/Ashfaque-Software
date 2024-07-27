@@ -14,7 +14,18 @@ I'm a motivated full stack web developer with extensive experience in the MERN s
 - Server-side rendering with React.js
 - NoSQL
 - Paython
-
+- 
+### 💻 Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Redux
+- Chakra UI
+- 
 ### 💞️ I’m looking to collaborate on ...
 - Innovative web applications
 - Open source projects
