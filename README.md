@@ -13,8 +13,8 @@ I'm a motivated full stack web developer with extensive experience in the MERN s
 - Advanced Redux patterns
 - Server-side rendering with React.js
 - NoSQL
-- Paython
-- 
+- Python
+
 ### 💻 Skills
 - HTML
 - CSS
@@ -25,7 +25,7 @@ I'm a motivated full stack web developer with extensive experience in the MERN s
 - MongoDB
 - Redux
 - Chakra UI
-- 
+
 ### 💞️ I’m looking to collaborate on ...
 - Innovative web applications
 - Open source projects
@@ -36,6 +36,10 @@ I'm a motivated full stack web developer with extensive experience in the MERN s
 - Email: ashfaqueansari101@email.com
 - LinkedIn: [Mohammad Ashfaque Ansari](https://www.linkedin.com/in/mohammad-ashfaque-ansari-029a1225b/)
 - GitHub: [@Ashfaque-Software](https://github.com/Ashfaque-Software)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashfaque-Software&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaque-Software&layout=compact&theme=radical)
 
 <!---
 Ashfaque-Software/Ashfaque-Software is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
